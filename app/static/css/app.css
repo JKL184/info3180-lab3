@@ -1,3 +1,31 @@
 body {
-    padding-top: 5rem;
+	padding-top: 5rem;
+}
+.btn {
+	background-color: #2987cd;
+	color: #fff;
+	margin-left: 20px;
+    width:150px;
+}
+.label {
+	display: flex;
+}
+.label p {
+	color: #e55e6e;
+	padding-left: 5px;
+}
+.form-group {
+	padding: 10px;
+}
+
+.form-control {
+	width: 50%;
+}
+
+h1 {
+	padding-bottom: 20px;
+	border-bottom: 3px solid darkgray;
+}
+#instr {
+	padding: 5px;
 }
